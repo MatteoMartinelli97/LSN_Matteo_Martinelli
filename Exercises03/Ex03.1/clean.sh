@@ -1,0 +1,2 @@
+rm -rf *sampling.out
+

@@ -1,0 +1,2 @@
+rm -rf Pi.out
+

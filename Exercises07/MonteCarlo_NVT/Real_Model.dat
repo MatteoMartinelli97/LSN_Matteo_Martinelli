@@ -1,0 +1,9 @@
+Argon
+0.34
+120
+39.948
+	
+			ReadProperty >> name;		
+			ReadProperty >> sigma;			//nm
+			ReadProperty >> epsilon			//K
+			ReadProperty >> mass;			//uma
